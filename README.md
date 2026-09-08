@@ -5,6 +5,9 @@
   <a href="https://abhayyadav0090.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Website-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://abhayyadav0090.github.io/portfolio2/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Website-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://codolio.com/profile/Abhayyadav0090" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-All_Platform_Tracker-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
   </a>
@@ -93,7 +96,7 @@
 ### 🛠️ Technical Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,mysql,git,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,git" alt="Tech Stack" />
 </div>
 
 ---
