@@ -3,19 +3,19 @@
 
 <p align="center">
   <a href="https://abhayyadav0090.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Website-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio_1-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio 1" />
   </a>
   <a href="https://abhayyadav0090.github.io/portfolio2/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Website-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio_2-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio 2" />
   </a>
   <a href="https://codolio.com/profile/Abhayyadav0090" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-All_Platform_Tracker-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
+    <img src="https://img.shields.io/badge/Codolio-Aggregated_Stats-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
   </a>
 </p>
 
 ---
 
-### 📊 Live Coding & Contest Telemetry
+### 📊 Real-Time Competitive Programming Telemetry
 
 <div align="center">
   <!-- LeetCode Realtime Metrics -->
@@ -28,38 +28,30 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <!-- Live Dynamic CodeChef Badge -->
-  <a href="https://www.codechef.com/users/abhayyadav0090" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CodeChef%20Rating&query=currentRating&url=https%3A%2F%2Fcodechef-api.vercel.app%2Fabhayyadav0090&color=5B4638&logo=codechef&logoColor=white" alt="CodeChef Live Rating" />
-  </a>
-  <!-- Live Dynamic CodeChef Stars -->
-  <a href="https://www.codechef.com/users/abhayyadav0090" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CodeChef%20Stars&query=stars&url=https%3A%2F%2Fcodechef-api.vercel.app%2Fabhayyadav0090&color=F5A623&logo=codechef&logoColor=white" alt="CodeChef Stars" />
-  </a>
-</div>
-
 ---
 
 ### 📈 GitHub Engine Analytics
 
 <div align="center">
-  <!-- GitHub Streak (Verified Working) -->
+  <!-- Verified Streak Tracker -->
   <a href="https://github.com/abhayyadav0090">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayyadav0090&theme=nord&hide_border=true" width="60%" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <!-- Zero-Downtime GitHub Metric Badges -->
-  <img src="https://img.shields.io/github/stars/abhayyadav0090?style=for-the-badge&logo=github&color=181717" alt="Repo Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/abhayyadav0090?style=for-the-badge&label=Commits%20(Year)&logo=git&color=2ea44f" alt="Yearly Commits" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhayyadav0090&color=0969da&logo=github" alt="Public Repos" />
+  <!-- Zero-Error GitHub Metrics (No 404s) -->
+  <a href="https://github.com/abhayyadav0090?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhayyadav0090&color=0969da&logo=github" alt="Public Repos" />
+  </a>
+  <a href="https://github.com/abhayyadav0090">
+    <img src="https://img.shields.io/github/followers/abhayyadav0090?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
+  </a>
 </div>
 
 ---
 
-### 🏆 Verified Coding & Contest Handles
+### 🏆 All Coding & Problem Solving Portals
 
 <div align="center">
   <a href="https://codolio.com/profile/Abhayyadav0090" target="_blank">
@@ -77,14 +69,29 @@
 </div>
 
 <div align="center" style="margin-top: 6px;">
+  <a href="https://www.naukri.com/code360/profile/abhayyadav0090" target="_blank">
+    <img src="https://img.shields.io/badge/CodeStudio-abhayyadav0090-E25C34?style=for-the-badge&logo=codementor&logoColor=white" alt="CodeStudio" />
+  </a>
   <a href="https://www.hackerrank.com/profile/abhayyadav19955" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-abhayyadav19955-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/abhayyadav0090/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-abhayyadav0090-29903B?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://atcoder.jp/users/abhayyadav0090" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-abhayyadav0090-000000?style=for-the-badge&logo=target&logoColor=white" alt="AtCoder" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 6px;">
   <a href="https://unstop.com/u/abhayyad55102" target="_blank">
     <img src="https://img.shields.io/badge/Unstop-abhayyad55102-0056D2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Unstop" />
   </a>
   <a href="https://profiles.topcoder.com/abhayyadav0090" target="_blank">
     <img src="https://img.shields.io/badge/Topcoder-abhayyadav0090-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder" />
+  </a>
+  <a href="https://www.interviewbit.com/profile/abhayyadav0090" target="_blank">
+    <img src="https://img.shields.io/badge/InterviewBit-abhayyadav0090-4495D1?style=for-the-badge&logo=target&logoColor=white" alt="InterviewBit" />
   </a>
   <a href="https://app.matiks.org/profile/abhayyadav19955" target="_blank">
     <img src="https://img.shields.io/badge/Matiks-abhayyadav19955-6C5CE7?style=for-the-badge&logo=target&logoColor=white" alt="Matiks" />
