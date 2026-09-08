@@ -69,7 +69,7 @@
 </div>
 
 <div align="center" style="margin-top: 6px;">
-  <a href="https://www.naukri.com/code360/profile/abhayyadav0090" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/abhayyadavay" target="_blank">
     <img src="https://img.shields.io/badge/CodeStudio-abhayyadav0090-E25C34?style=for-the-badge&logo=codementor&logoColor=white" alt="CodeStudio" />
   </a>
   <a href="https://www.hackerrank.com/profile/abhayyadav19955" target="_blank">
